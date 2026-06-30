@@ -52,23 +52,7 @@
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
 </p>
 
----
 
-# 🌟 Featured Projects
-
-### 🧠 EcoTrack AI
-> AI + IoT based Carbon Footprint Monitoring Platform
-
-### ⚡ NILM
-> Appliance Recognition using Machine Learning
-
-### 📊 Carbon Emission Prediction
-> Predictive ML model for sustainability analytics
-
-### 🌍 Smart Sustainability Dashboard
-> Django + REST APIs + Visualization
-
----
 
 # 📈 GitHub Analytics
 
